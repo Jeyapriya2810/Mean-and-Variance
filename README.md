@@ -1,4 +1,9 @@
 #  Mean and variance of a discrete  distribution
+**EXP NO: 1**
+
+**JEYAPRIYA J ( 24004150 )**
+
+**DATE : 21 /09/2024**
 
 
 # Aim : 
